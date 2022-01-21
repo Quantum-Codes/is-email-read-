@@ -9,6 +9,6 @@
 7. open console of the forked repl and in the other tab, reload the email.
 8. comment here what you see.
 
-expected: in console, either of this should come:<br>
+**expected**: in console, either of this should come:<br>
 `None <rand number>` or<br>
-`mail.google.com <rand >
+`mail.google.com <rand number>`
